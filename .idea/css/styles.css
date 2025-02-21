@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    padding: 20px;
+    background-color: #FFF0BD;
+    font-family:   "Times New Roman";
+}
+
+h1 {
+    color: #E50046;
+}
+.tltPrincipal{
+    font-family: Gabriola;
+}
+p {
+    padding: 30px;
+    color: #000000;
+}
+
+nav {
+    padding: 40px;
+}
+.imgIni {
+    border-radius: 10%;
+    border: 0.2em solid #C7DB9C;
+}
+
+p span{
+    font-weight: bold;
+}
